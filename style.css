@@ -56,7 +56,7 @@ span {
 }
 .container-about-me {
   display: flex;
-  background: url(/images/shapes/7.png);
+  background: url(images/shapes/7.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
